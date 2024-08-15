@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/08/15 06:08:24.650,=C:\Users\Windows 10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/15 06:11:34.831,F:\WorkSpace\wsDelphi\Projects\PasswordRandomizer\Unit1.dfm=C:\Users\Windows 10\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/15 06:11:34.831,F:\WorkSpace\wsDelphi\Projects\PasswordRandomizer\Unit1.pas=C:\Users\Windows 10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/15 06:11:39.015,F:\WorkSpace\wsDelphi\Projects\PasswordRandomizer\Project1.dproj=C:\Users\Windows 10\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/15 06:34:05.630,F:\WorkSpace\wsDelphi\Projects\PasswordRandomizer\GeradorDeSenhas.dproj=F:\WorkSpace\wsDelphi\Projects\PasswordRandomizer\Project1.dproj</Transaction>
+    <Transaction>2024/08/15 06:34:12.081,F:\WorkSpace\wsDelphi\Projects\PasswordRandomizer\principal.pas=F:\WorkSpace\wsDelphi\Projects\PasswordRandomizer\Unit1.pas</Transaction>
+    <Transaction>2024/08/15 06:34:12.081,F:\WorkSpace\wsDelphi\Projects\PasswordRandomizer\principal.dfm=F:\WorkSpace\wsDelphi\Projects\PasswordRandomizer\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
